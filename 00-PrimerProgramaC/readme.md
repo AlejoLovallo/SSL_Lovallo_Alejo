@@ -1,7 +1,7 @@
 # Resolución tp 0 
 
 * Source code: holaMundo.c
-* Ejecutable: holaMundo.exe 
+* Ejecutable: holaMundo 
 
 ### Compilación 
 
